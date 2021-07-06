@@ -17,5 +17,6 @@ Windows Subsystem for Linux
 - I restarted the machine once.
 - I got the Docker Desktop installed and running in my Windows 10 Home Single version(20H2) Machine.
 ![image](https://user-images.githubusercontent.com/19230214/124650872-db9fda80-deb7-11eb-96fa-891868822e36.png)
+![image](https://user-images.githubusercontent.com/19230214/124650998-00944d80-deb8-11eb-836c-a2232428cf34.png)
 - You can check your Windows 10 Home Edition version by running "winver" in Windows. 
 
