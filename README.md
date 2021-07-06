@@ -16,6 +16,6 @@ Windows Subsystem for Linux
 - Then I installed the "Docker Desktop Installer.exe" for Windows but unchecked the option to download/install Windows Tools for WSL2.
 - I restarted the machine once.
 - I got the Docker Desktop installed and running in my Windows 10 Home Single version(20H2) Machine.
-![image](https://user-images.githubusercontent.com/19230214/124649825-9d55eb80-deb6-11eb-8c3b-b54580b2c1c7.png) 
+![image](https://user-images.githubusercontent.com/19230214/124650872-db9fda80-deb7-11eb-96fa-891868822e36.png)
 - You can check your Windows 10 Home Edition version by running "winver" in Windows. 
 
